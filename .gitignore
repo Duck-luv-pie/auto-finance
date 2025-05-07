@@ -1,0 +1,11 @@
+# Ignore all .pem keys
+*.pem
+
+# Ignore environment variables
+.env
+
+# Ignore local system files
+.DS_Store
+
+# Ignore node_modules (if using Node.js)
+node_modules/
